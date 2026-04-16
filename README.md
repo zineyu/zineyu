@@ -1,14 +1,14 @@
 # 👋 Hello, I'm zineyu
 
-[![GitHub followers](https://img.shields.io/github/followers/zine0?label=Follow&style=social)](https://github.com/zine0)
-[![Visitors](https://komarev.com/ghpvc/?username=zine0&color=blue)](https://github.com/zine0)
+[![GitHub followers](https://img.shields.io/github/followers/zine0?label=Follow&style=social)](https://github.com/zineyu)
+[![Visitors](https://komarev.com/ghpvc/?username=zineyu&color=blue)](https://github.com/zineyu)
 
 ## 🚀 About Me
 
 - 📚 A student from China Shenyang University of Chemical Technology
 - 💻 Passionate about programming and open-source technologies
 - 🌱 Constantly learning new technologies
-- 📫 How to reach me: [Via GitHub](https://github.com/zine0)
+- 📫 How to reach me: [Via GitHub](https://github.com/zineyu)
 
 ## 🛠️ Tech Stack
 
@@ -25,13 +25,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
-![zine0's GitHub stats](https://github-readme-stats-psi-ruddy-97.vercel.app/api?username=zine0&show_icons=true)
+![zine's GitHub stats](https://github-readme-stats-psi-ruddy-97.vercel.app/api?username=zineyu&show_icons=true)
 
-![Top Langs](https://github-readme-stats-psi-ruddy-97.vercel.app/api/top-langs/?username=zine0&layout=compact)
+![Top Langs](https://github-readme-stats-psi-ruddy-97.vercel.app/api/top-langs/?username=zineyu&layout=compact)
 
 ## 📈 Contribution Graph
 
-![zine0's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zine0&theme=minimal)
+![zine's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zineyu&theme=minimal)
 
 ## 🎯 Focus On
 
@@ -41,5 +41,5 @@
 
 ## 📫 Connect With Me
 
-- GitHub: [@zine0](https://github.com/zine0)
+- GitHub: [@zine0](https://github.com/zineyu)
 - Email: [zine.xlws@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=zine.xlws@gmail.com)
