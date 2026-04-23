@@ -25,9 +25,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
-![zine's GitHub stats](https://github-readme-stats-psi-ruddy-97.vercel.app/api?username=zineyu&show_icons=true)
+![zine's GitHub stats](https://github-readme-stats-eight-opal-38.vercel.app/api?username=zineyu&show_icons=true)
 
-![Top Langs](https://github-readme-stats-psi-ruddy-97.vercel.app/api/top-langs/?username=zineyu&layout=compact)
+![Top Langs](https://github-readme-stats-eight-opal-38.vercel.app/api/top-langs/?username=zineyu&layout=compact)
 
 ## 📈 Contribution Graph
 
@@ -37,7 +37,7 @@
 
 ### 🔥 Rk8s
 
-[![Readme Card](https://github-readme-stats-psi-ruddy-97.vercel.app/api/pin/?username=rk8s-dev&repo=rk8s)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-eight-opal-38.vercel.app/api/pin/?username=rk8s-dev&repo=rk8s)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Connect With Me
 
