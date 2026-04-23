@@ -1,6 +1,6 @@
 # 👋 Hello, I'm zineyu
 
-[![GitHub followers](https://img.shields.io/github/followers/zine0?label=Follow&style=social)](https://github.com/zineyu)
+[![GitHub followers](https://img.shields.io/github/followers/zineyu?label=Follow&style=social)](https://github.com/zineyu)
 [![Visitors](https://komarev.com/ghpvc/?username=zineyu&color=blue)](https://github.com/zineyu)
 
 ## 🚀 About Me
@@ -41,5 +41,5 @@
 
 ## 📫 Connect With Me
 
-- GitHub: [@zine0](https://github.com/zineyu)
+- GitHub: [@zineyu](https://github.com/zineyu)
 - Email: [zine.xlws@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=zine.xlws@gmail.com)
